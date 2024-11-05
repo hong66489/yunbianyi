@@ -12,7 +12,7 @@
 
 # Uncomment a feed source
 git clone https://github.com/x-wrt/com.x-wrt.git package/com.x-wrt
-git clone https://github.com/oppen321/package.git package/AdGuardHome
+git clone https://github.com/canmeng12/packages.git package/AdGuardHome
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default

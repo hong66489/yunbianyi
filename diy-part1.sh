@@ -12,7 +12,7 @@
 
 # Uncomment a feed source
 #git clone https://github.com/x-wrt/com.x-wrt.git package/com.x-wrt
-git clone https://github.com/sonyvivo-c/luci-app-adguardhome.git package/luci-app-adguardhome
+git clone https://github.com/kenzok78/luci-app-adguardhome package/luci-app-adguardhome
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default

@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/namiltd/openwrt.git
+  REPO_URL: https://github.com/HUANGJHON/openwrt.git
   REPO_BRANCH: 6.12-ramips
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config

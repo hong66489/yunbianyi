@@ -17,4 +17,4 @@ git clone https://github.com/kenzok78/luci-app-adguardhome package/luci-app-adgu
 git clone https://github.com/x-wrt/com.x-wrt.git package/com.x-wrt
 # Add a feed source
 
-#curl -sSL https://raw.githubusercontent.com/chenmozhijin/turboacc/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh --no-sfe
+#curl -sSL https://raw.githubusercontent.com/hong66489/turboacc/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh --no-sfe

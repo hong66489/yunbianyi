@@ -13,7 +13,7 @@
 # Uncomment a feed source
 #git clone https://github.com/kenzok8/openwrt-packages.git package/small
 #git clone https://github.com/kenzok8/small.git package/kenzok8
-git clone https://github.com/kenzok78/luci-app-adguardhome package/luci-app-adguardhome
+git clone https://github.com/xiaoxiao29/luci-app-adguardhome package/luci-app-adguardhome
 #git clone https://github.com/x-wrt/com.x-wrt.git package/com.x-wrt
 # Add a feed source
 

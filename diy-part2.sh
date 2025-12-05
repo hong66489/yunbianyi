@@ -17,7 +17,7 @@ sed -i 's/192.168.1.1/192.168.2.1/g' package/base-files/files/bin/config_generat
 #sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
 
 # Modify hostname
-sed -i 's/ImmortalWRT/G-AX1800/g' package/base-files/files/bin/config_generate
+sed -i 's/ImmortalWrt/G-AX1800/g' package/base-files/files/bin/config_generate
 
 # UPnP
 #rm -rf feeds/{packages/net/miniupnpd,luci/applications/luci-app-upnp}

@@ -17,7 +17,7 @@ sed -i 's/192.168.1.1/192.168.2.1/g' package/base-files/files/bin/config_generat
 #sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/Makefile
 
 # Modify hostname
-sed -i 's/ImmortalWrt/T6GS/g' package/base-files/files/bin/config_generate
+sed -i 's/LEDE/T6GS/g' package/base-files/files/bin/config_generate
 #sed -i 's/FCJ G-AX1800-F/360 T6GS/g' target/linux/ramips/dts/mt7621_fcj_g-ax1800-f.dts
 # UPnP
 #rm -rf feeds/{packages/net/miniupnpd,luci/applications/luci-app-upnp}

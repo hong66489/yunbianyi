@@ -11,7 +11,7 @@
 #
 
 # Uncomment a feed source
-#git clone https://github.com/xuanranran/openwrt-packages.git package/lede
+git clone https://github.com/281677160/openwrt-package.git package/lede
 #git clone https://github.com/TanZhiwen2001/luci-app-adguardhome.git package/adguardhome
 #git clone https://github.com/xuanranran/openwrt-package.git package/xuanranran
 #git clone https://github.com/kenzok8/openwrt-packages.git package/kenzok8

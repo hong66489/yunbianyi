@@ -11,7 +11,7 @@
 #
 
 # Uncomment a feed source
-git clone https://github.com/whiskyrye/ImmortalWrt-Packages.git package/small
+#git clone https://github.com/whiskyrye/ImmortalWrt-Packages.git package/small
 #git clone https://github.com/xiaorouji/openwrt-passwall-packages.git package/small2
 #git clone https://github.com/xuanranran/openwrt-package.git package/xuanranran
 #git clone https://github.com/kenzok8/openwrt-packages.git package/kenzok8

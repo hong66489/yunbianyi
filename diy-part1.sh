@@ -11,8 +11,8 @@
 #
 
 # Uncomment a feed source
-git clone https://github.com/xiaorouji/openwrt-passwall.git package/small
-git clone https://github.com/xiaorouji/openwrt-passwall-packages.git package/small2
+git clone https://github.com/OpenWrt-Actions/openwrt-package-lienol.git package/small
+#git clone https://github.com/xiaorouji/openwrt-passwall-packages.git package/small2
 #git clone https://github.com/xuanranran/openwrt-package.git package/xuanranran
 #git clone https://github.com/kenzok8/openwrt-packages.git package/kenzok8
 #git clone https://github.com/xiaoxiao29/luci-app-adguardhome.git package/luci-app-adguardhome

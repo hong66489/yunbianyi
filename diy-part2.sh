@@ -24,4 +24,4 @@ sed -i 's/ImmortalWrt/T6GS/g' package/base-files/files/bin/config_generate
 #rm -rf feeds/{packages/net/miniupnpd,luci/applications/luci-app-upnp}
 #git clone https://git.kejizero.online/zhao/miniupnpd feeds/packages/net/miniupnpd -b v2.3.7
 #git clone https://git.kejizero.online/zhao/luci-app-upnp feeds/luci/applications/luci-app-upnp -b master
-sed -i '$a src-git mzwrt_package https://github.com/sirpdboy/luci-app-adguardhome' feeds.conf.default
+#sed -i '$a src-git mzwrt_package https://github.com/sirpdboy/luci-app-adguardhome' feeds.conf.default

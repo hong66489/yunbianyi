@@ -21,3 +21,4 @@
 # Add a feed source
 
 #curl -sSL https://raw.githubusercontent.com/hong66489/turboacc/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh --no-sfe
+curl -sSL https://raw.githubusercontent.com/mufeng05/turboacc/main/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh

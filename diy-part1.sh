@@ -13,7 +13,7 @@
 # Uncomment a feed source
 #git clone https://github.com/whiskyrye/ImmortalWrt-Packages.git package/small
 #git clone https://github.com/xiaorouji/openwrt-passwall-packages.git package/small2
-#git clone https://github.com/xuanranran/openwrt-package.git package/xuanranran
+git clone https://github.com/xuanranran/openwrt-package.git package/xuanranran
 #git clone https://github.com/kenzok8/openwrt-packages.git package/kenzok8＃git clone https://github.com/TanZhiwen2001/luci-app-adguardhome.git package/luci-app-adguardhome
 #git clone https://github.com/OneNAS-space/luci-app-adguardhome package/luci-app-adguardhome
 #git clone https://github.com/x-wrt/com.x-wrt.git package/com.x-wrt

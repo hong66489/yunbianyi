@@ -15,7 +15,7 @@
 #git clone https://github.com/xiaorouji/openwrt-passwall-packages.git package/small2
 #git clone https://github.com/xuanranran/openwrt-package.git package/xuanranran
 #git clone https://github.com/kenzok8/openwrt-packages.git package/kenzok8
-git clone https://github.com/wzdddyy/luci-app-adguardhome.git package/luci-app-adguardhome
+git clone https://github.com/w9315273/luci-app-adguardhome.git package/luci-app-adguardhome
 git clone https://github.com/sirpdboy/luci-app-taskplan package/luci-app-taskplan
 #git clone https://github.com/x-wrt/com.x-wrt.git package/com.x-wrt
 # Add a feed source

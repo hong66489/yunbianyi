@@ -18,6 +18,7 @@ sed -i 's/192.168.1.1/192.168.2.1/g' package/base-files/files/bin/config_generat
 
 # Modify hostname
 sed -i 's/ImmortalWrt/XG-040G-MD/g' package/base-files/files/bin/config_generate
+sed -i 's/"lan1 lan2 lan3 lan4" "pon0"/"lan2 lan3 lan4" "lan1"/g' target/linux/airoha/an7581/base-files/etc/board.d/02_network
 #sed -i 's/FCJ G-AX1800-F/360 T6GS/g' target/linux/ramips/dts/mt7621_fcj_g-ax1800-f.dts
 #sed -i 's/ImmortalWrt/PandoraBox/g' package/kernel/mac80211/files/lib/wifi/mac80211.sh
 # UPnP
